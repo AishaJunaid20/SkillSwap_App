@@ -1,0 +1,17 @@
+[
+  {
+    "name": "aisha",
+    "email": "aisha@gmail.com",
+    "password": "$2b$12$2M3RMLO0ovYXESXshKrbe.q5X/UgTGlR/WwG/.Z2WNlYpT8FNRP4."
+  },
+  {
+    "name": "Albert ",
+    "email": "albert@gmail.com",
+    "password": "$2b$12$zEcvvWEuKfWMrfxLHlr91OuRTDImWqQ8p5AeQ0Zk41ZZc5VTE.TeS"
+  },
+  {
+    "name": "Albert 1",
+    "email": "albert1@gmail.com",
+    "password": "$2b$12$PAynapfC38kW3DsjgIPrBuOJDuOd9uewaLuevforStWJG9Uk2K4uK"
+  }
+]
