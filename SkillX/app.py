@@ -13,7 +13,7 @@ create_tables()
 
 # ✅ Sidebar with Profile and Navigation
 with st.sidebar:
-    st.image("profile.png", width=100, caption="Aisha Junaid")  # Profile image
+    st.image("SkillX/profile.png", width=100, caption="Aisha Junaid")  # Profile image
     st.markdown("""
         <style>
         [data-testid="stImage"] img {
